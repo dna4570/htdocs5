@@ -130,9 +130,11 @@ img {
 }
 /*@media以外の所は全てのサイズで読み込まれます。*/
 p {
-    color: red;
+    color: white;
 }
-
+.section{
+    text-align: center;
+}
 /** Topics section*/
 
 .topics-section {
